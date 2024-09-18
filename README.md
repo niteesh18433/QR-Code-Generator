@@ -1,5 +1,5 @@
 # **QR-Code-Generator**
-## [Live](https://codepen.io/hicoders/pen/OJEJXqy)
+## [Live](https://codepen.io/niteesh18433/pen/RwzzebY)
 
 😁Create, download and share QR Code !!🚀
 
